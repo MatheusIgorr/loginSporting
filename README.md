@@ -1,4 +1,4 @@
-#🏅 Página de Login - Sporting
+🏅 Página de Login - Sporting
 Este projeto consiste em uma página de login simples, desenvolvida utilizando HTML, CSS e JavaScript puro. A página é responsiva e possui validação básica dos campos de entrada.
 
 ✨ Funcionalidades
